@@ -5,7 +5,7 @@ Most of the uncompiled GSC files come from JezuzLizard's repository. Any GSC fil
 
 In addition to GSC files, I will also post tutorials and important information I have learned along the way.
 
-To see some of the code in action, feel free to join my servers on Plutonium by searching for "lizardpeter" in the server browser.
+To see some of the code in action, feel free to join my servers on Plutonium T6 by searching for "lizardpeter" in the server browser.
 
 ![Zombies Server](https://github.com/lizardpeter/black_ops_2/blob/master/images/Zombies%20Servers%20Final.png)
 ![Multiplayer Server](https://github.com/lizardpeter/black_ops_2/blob/master/images/Multi%20Party%20Final.png)
