@@ -7,4 +7,4 @@ In addition to GSC files, I will also post tutorials and important information I
 
 To see some of the code in action, feel free to join my servers on Plutonium by searching for "lizardpeter" in the server browser.
 
-IMAGE HERE
+![Server](Zombies Servers Final.png)
