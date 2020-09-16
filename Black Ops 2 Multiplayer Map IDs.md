@@ -1,5 +1,4 @@
-# Black Ops II Multiplayer Map IDs:
-# Made by lizardpeter
+# Multiplayer Map IDs = Call of Duty: Black Ops II 
 
 ## Base Maps:
 | Command | Description |
