@@ -1,10 +1,6 @@
-# Multiplayer Map IDs = Call of Duty: Black Ops II 
+# Multiplayer Map IDs - Call of Duty: Black Ops II 
 
 ## Base Maps:
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
 
 | Map | Code |
 | --- | --- |
@@ -24,26 +20,34 @@
 | Yemen | mp_socotra |
 | Nuketown 2025 | mp_nuketown_2020 |
 
-DLC 1: Revolution
-Downhill - mp_downhill
-Grind - mp_skate
-Hydro - mp_hydro
-Mirage - mp_mirage
+## DLC 1: Revolution
+| Map | Code |
+| --- | --- |
+| Downhill | mp_downhill |
+| Grind | mp_skate |
+| Hydro | mp_hydro |
+| Mirage | mp_mirage |
 
-DLC 2: Uprising
-Encore - mp_concert
-Magma - mp_magma
-Studio - mp_vertigo
-Vertigo - mp_studio
+## DLC 2: Uprising
+| Map | Code |
+| --- | --- |
+| Encore | mp_concert |
+| Magma | mp_magma |
+| Studio | mp_vertigo |
+| Vertigo | mp_studio |
 
-DLC 3: Vengeance
-Cove - mp_castaway
-Detour - mp_bridge
-Rush - mp_paintball
-Uplink - mp_uplink
+## DLC 3: Vengeance
+| Map | Code |
+| --- | --- |
+| Cove | mp_castaway |
+| Detour | mp_bridge |
+| Rush | mp_paintball |
+| Uplink | mp_uplink |
 
-DLC 4: Apocalypse
-Dig - mp_dig
-Frost - mp_frost
-Pod - mp_mod
-Takeoff - mp_takeoff
+## DLC 4: Apocalypse
+| Map | Code |
+| --- | --- |
+| Dig | mp_dig |
+| Frost | mp_frost |
+| Pod | mp_mod |
+| Takeoff | mp_takeoff |
