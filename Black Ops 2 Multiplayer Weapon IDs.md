@@ -1,5 +1,4 @@
-Black Ops II Multiplayer Weapon IDs
-Made by lizardpeter
+# Weapon IDs - Call of Duty: Black Ops II
 
 ## Assault Rifles:
 
