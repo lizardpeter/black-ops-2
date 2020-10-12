@@ -16,7 +16,7 @@ GL
 Fore Grip - grip
 EOTech - holo
 ir
-Iron Sight - is
+Iron Sights - is
 longbreath
 MK
 Millimeter Scanner - mms
