@@ -1,18 +1,19 @@
 # Attachment IDs - Call of Duty: Black Ops II
 
-## Assault Rifles:
+## Assault Rifles: UNFINISHED (need to test the unknown attachments)
 
-UNFINISHED (need to test the unknown attachments)
-ACOG - acog
-DUALCLIP
-Hybrid Optic - dualoptic
-Dual Wield - dw
-Long Barrel - extbarrel
-Extended Magazine - extclip
-extramags
-Quickdraw - fastads
-fastreload
-FMJ - fmj
+| Attachment | Code |
+| --- | --- |
+| ACOG | acog |
+| ??? | DUALCLIP |
+| Hybrid Optic | dualoptic|
+| Dual Wield | dw |
+| Long Barrel | extbarrel |
+| Extended Magazine | extclip |
+| ??? | extramags |
+| Quickdraw | fastads |
+| ??? | fastreload |
+| FMJ | fmj |
 GL
 Fore Grip - grip
 EOTech - holo
