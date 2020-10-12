@@ -1,6 +1,6 @@
 # Attachment IDs - Call of Duty: Black Ops II
 
-## Assault Rifles: UNFINISHED (need to test the unknown attachments)
+## UNFINISHED (need to test the unknown attachments)
 
 | Attachment | Code |
 | --- | --- |
