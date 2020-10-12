@@ -14,22 +14,22 @@
 | Quickdraw | fastads |
 | ??? | fastreload |
 | FMJ | fmj |
-GL
-Fore Grip - grip
-EOTech - holo
-ir
-Iron Sights - is
-longbreath
-MK
-Millimeter Scanner - mms
-RANGEFINDER
-Reflex - reflex
-Rapid Fire - rf
-Select Fire - sf
-Suppressor - SILENCER
-STACKFIRE
-stalker
-steadyaim
-Ballistics CPU - swayreduc
-Tactival Knife - tacknife
-Zoom - vzoom
+| ??? | GL |
+| Fore Grip | grip |
+| EOTech | holo |
+| ??? | ir |
+| Iron Sights | is |
+| ??? | longbreath |
+| ??? | MK |
+| Millimeter Scanner | mms |
+| ??? | RANGEFINDER |
+| Reflex | reflex |
+| Rapid Fire | rf |
+| Select Fire | sf|
+| Suppressor | SILENCER|
+| ??? | STACKFIRE |
+| ??? | stalker |
+| ??? | steadyaim |
+| Ballistics CPU | swayreduc |
+| Tactival Knife | tacknife |
+| Zoom | vzoom |
