@@ -1,5 +1,6 @@
-Black Ops II Multiplayer Attachment IDs:
-Made by lizardpeter
+# Attachment IDs - Call of Duty: Black Ops II
+
+## Assault Rifles:
 
 UNFINISHED (need to test the unknown attachments)
 ACOG - acog
